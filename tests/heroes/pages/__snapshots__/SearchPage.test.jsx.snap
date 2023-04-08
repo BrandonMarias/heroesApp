@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <SearchPage snapshot 1`] = `
+<div>
+  <h1
+    class="mt-4"
+  >
+    Results
+  </h1>
+  <hr />
+  <div
+    class="row"
+  >
+    <div
+      class="col-md-7"
+    >
+      <div
+        class="alert alert-info animate__animated animate__fadeIn"
+      >
+        Search a hero
+      </div>
+    </div>
+  </div>
+  <br />
+</div>
+`;
